@@ -1,0 +1,27 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+
+# Front-end
+node_modules/
+dist/
+build/
+.cache/
+public/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Astro
+/.astro
+/.astro-build
+/.astro-cache
